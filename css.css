@@ -150,7 +150,7 @@ h1 {
     align-items: center;
     color: var(--white);
     font-weight: 700;
-    letter-spacing: 0.1em;
+    font-size: 1.05em;
 }
 
 .container-component>p{
